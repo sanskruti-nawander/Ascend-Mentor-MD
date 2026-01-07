@@ -118,24 +118,5 @@ To set up AscendMentors locally, follow these steps:
 4. **Resume Review**: Upload your resume and get feedback.
 5. **Mock Interview**: Prepare for interviews with our mock interview tool.
 
-## Demo
 
-Check out our [YouTube Demo](https://youtu.be/kpJNwaiacEY?si=yUUI1e34LZ8mbv1y) to see AscendMentors in action!
-
-## Contributors
-
-- **Hannan Chougle**  
-  [GitHub](https://github.com/Hannan2004)
-
-- **Manit Khira**  
-  [GitHub](https://github.com/Manitkhira)
-
-- **Himanshu Menghrajani**  
-  [GitHub](https://github.com/Himanshu2004-prog)
-
-- **Azfar Shaikh**  
-  [GitHub](https://github.com/Azfarsh)
-
-- **Ronak Ajwani**  
-  [GitHub](https://github.com/RonakAjwani)
 
